@@ -6,6 +6,6 @@ The objective of this project is to classify the given reviews as  Positive or N
 ### About the Dataset
 The dataset used contains 3000 reviews taken from imdb.com, yelp.com and amazon.com. The reviews contain labels which indicate whether it is Positive (1) or Negative (0)
 
-### Algorithm used
+### Algorithm 
 Logistic Regression is used to classify the data as positive or negative.
 
